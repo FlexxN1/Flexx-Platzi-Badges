@@ -11,7 +11,7 @@ Recursos :
 - [Boostrap](https://getbootstrap.com/)
 
 ## View project 🚀🙋🏻‍♂️
-## [Deploy](https://weather-flexx-app.netlify.app/)
+## [Deploy](https://flexxn1.github.io/Flexx-Platzi-Badges/)
 
 ## Installation ⚖
 Flex Platzi Badges:
