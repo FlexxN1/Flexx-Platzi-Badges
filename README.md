@@ -8,11 +8,13 @@ Recursos :
 
 - [gh-pages](https://www.npmjs.com/package/gh-pages)
 
+- [Boostrap](https://getbootstrap.com/)
+
 ## View project 🚀🙋🏻‍♂️
 ## [Deploy](https://weather-flexx-app.netlify.app/)
 
 ## Installation ⚖
-Instagram Clone:
+Flex Platzi Badges:
 ```
 git clone https://github.com/FlexxN1/Flexx-Platzi-Badges.git
  ```
