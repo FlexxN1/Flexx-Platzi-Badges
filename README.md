@@ -1,12 +1,12 @@
-# Weather-Flexx-App🌀🌪
+# Flex Platzi Badges ♏⚕
 
-Weater-App, es una pagina web que nos ayuda buscar el clima y distintos datos de un lugar en absoluto.
+Flexx Platzi Badges, es una pagina hecha en React.js, con el objetivo de crear una interfaz de tu perfil con tu isignia de Platzi.
 
 Recursos :
 
-- [SweetAlert2.0](https://cdnjs.com/libraries/sweetalert)
+- [React-App](https://es.reactjs.org/)
 
-- [OpenWeatherAPI](https://openweathermap.org/)
+- [gh-pages](https://www.npmjs.com/package/gh-pages)
 
 ## View project 🚀🙋🏻‍♂️
 ## [Deploy](https://weather-flexx-app.netlify.app/)
@@ -14,7 +14,11 @@ Recursos :
 ## Installation ⚖
 Instagram Clone:
 ```
-git clone https://github.com/FlexxN1/Weather-Flexx-App.git
+git clone https://github.com/FlexxN1/Flexx-Platzi-Badges.git
+ ```
+
+ ```
+npm install
  ```
 
 ## License 🔐
