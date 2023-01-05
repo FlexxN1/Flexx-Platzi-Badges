@@ -1,23 +1,23 @@
 self.__precacheManifest = [
   {
-    "revision": "8710a72ee71a78fbe7a6",
+    "revision": "3007359b2b1b49cedd6c",
     "url": "/Flexx-Platzi-Badges/static/css/main.8066e82e.chunk.css"
   },
   {
-    "revision": "8710a72ee71a78fbe7a6",
-    "url": "/Flexx-Platzi-Badges/static/js/main.8710a72e.chunk.js"
+    "revision": "3007359b2b1b49cedd6c",
+    "url": "/Flexx-Platzi-Badges/static/js/main.3007359b.chunk.js"
   },
   {
     "revision": "c0be8d727d9e0cb7b0c4",
     "url": "/Flexx-Platzi-Badges/static/js/runtime~main.c0be8d72.js"
   },
   {
-    "revision": "8af5565a1a0fb0683036",
+    "revision": "3117f937b6b730fd221b",
     "url": "/Flexx-Platzi-Badges/static/css/2.a1208501.chunk.css"
   },
   {
-    "revision": "8af5565a1a0fb0683036",
-    "url": "/Flexx-Platzi-Badges/static/js/2.8af5565a.chunk.js"
+    "revision": "3117f937b6b730fd221b",
+    "url": "/Flexx-Platzi-Badges/static/js/2.3117f937.chunk.js"
   },
   {
     "revision": "973f5842f0c37eacb2eb491c62fc0032",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/Flexx-Platzi-Badges/static/media/stars.1d17360a.svg"
   },
   {
-    "revision": "ce9fa9999da379d59ddc2f00361e47bb",
+    "revision": "b67862acc2e96e3951bad2e0254aad05",
     "url": "/Flexx-Platzi-Badges/index.html"
   }
 ];
