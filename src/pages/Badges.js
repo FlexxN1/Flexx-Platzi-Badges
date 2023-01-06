@@ -53,7 +53,7 @@ class Badges extends React.Component {
           },
         ],
       });
-    }, 3000);
+    }, 1000);
   }
 
   componentDidUpdate(prevProps, prevState) {
