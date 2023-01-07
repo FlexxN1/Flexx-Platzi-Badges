@@ -15,7 +15,7 @@ function App() {
           <Route exact path="/" component={Home} />
           <Route exact path="/badges" component={Badges} />
           <Route exact path="/badges/new" component={BadgeNew} />
-          <Route path="*" component={NotFound} />
+          <Route component={NotFound} />
         </Switch>
       </Layout>
     </BrowserRouter>
