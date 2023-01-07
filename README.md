@@ -10,6 +10,8 @@ Recursos :
 
 - [Boostrap](https://getbootstrap.com/)
 
+- [md5](https://md5online.es/cifrar-md5)
+
 ## View project 🚀🙋🏻‍♂️
 ## [Deploy](https://flexxn1.github.io/Flexx-Platzi-Badges/)
 
