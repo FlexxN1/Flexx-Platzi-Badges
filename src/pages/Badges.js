@@ -68,6 +68,7 @@ class Badges extends React.Component {
           </div>
 
           <BadgesList badges={this.state.data} />
+
           {this.state.loading && <MiniLoader />}
         </div>
       </React.Fragment>
