@@ -20,22 +20,18 @@ class BadgeEdit extends React.Component {
     },
   };
 
-  componentDidMount(){
-    this.fetchData()
+  componentDidMount() {
+    this.fetchData();
   }
 
   fetchData = async e => {
-    this.setState({ 
-      loading: true,
-      error: null
-    });
+    this.setState({ loading: true, error: null });
 
     try {
       const data = await api.badges.read(this.props.match.params.badgeId);
 
-
       this.setState({ loading: false, form: data });
-    }catch (error){
+    } catch (error) {
       this.setState({ loading: false, error: error });
     }
   };
@@ -58,16 +54,16 @@ class BadgeEdit extends React.Component {
       this.setState({ loading: false });
 
       this.props.history.push('/badges');
- 
     } catch (error) {
       this.setState({ loading: false, error: error });
     }
   };
 
   render() {
-    if(this.state.loading){
+    if (this.state.loading) {
       return <PageLoading />;
     }
+
     return (
       <React.Fragment>
         <div className="BadgeEdit__hero">
