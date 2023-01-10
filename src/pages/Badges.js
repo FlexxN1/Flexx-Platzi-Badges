@@ -17,6 +17,8 @@ class Badges extends React.Component {
 
   componentDidMount() {
     this.fetchData();
+
+    setInterval(this.fetchData, 5000)
   }
 
   fetchData = async () => {
@@ -31,7 +33,7 @@ class Badges extends React.Component {
   };
 
   render() {
-    if (this.state.loading === true) {
+    if (this.state.loading === true && !this.state.data) {
       return <PageLoading />;
     }
 
@@ -61,6 +63,7 @@ class Badges extends React.Component {
           </div>
 
           <BadgesList badges={this.state.data} />
+          {this.state.loading && <MiniLoader>}
         </div>
       </React.Fragment>
     );
