@@ -1,20 +1,20 @@
 {
-  "main.css": "/Flexx-Platzi-Badges/static/css/main.8066e82e.chunk.css",
-  "main.js": "/Flexx-Platzi-Badges/static/js/main.dd2bd48a.chunk.js",
-  "main.js.map": "/Flexx-Platzi-Badges/static/js/main.dd2bd48a.chunk.js.map",
+  "main.css": "/Flexx-Platzi-Badges/static/css/main.362be4a4.chunk.css",
+  "main.js": "/Flexx-Platzi-Badges/static/js/main.8245261c.chunk.js",
+  "main.js.map": "/Flexx-Platzi-Badges/static/js/main.8245261c.chunk.js.map",
   "runtime~main.js": "/Flexx-Platzi-Badges/static/js/runtime~main.c0be8d72.js",
   "runtime~main.js.map": "/Flexx-Platzi-Badges/static/js/runtime~main.c0be8d72.js.map",
   "static/css/2.a1208501.chunk.css": "/Flexx-Platzi-Badges/static/css/2.a1208501.chunk.css",
-  "static/js/2.3117f937.chunk.js": "/Flexx-Platzi-Badges/static/js/2.3117f937.chunk.js",
-  "static/js/2.3117f937.chunk.js.map": "/Flexx-Platzi-Badges/static/js/2.3117f937.chunk.js.map",
+  "static/js/2.cbd42fa0.chunk.js": "/Flexx-Platzi-Badges/static/js/2.cbd42fa0.chunk.js",
+  "static/js/2.cbd42fa0.chunk.js.map": "/Flexx-Platzi-Badges/static/js/2.cbd42fa0.chunk.js.map",
   "index.html": "/Flexx-Platzi-Badges/index.html",
-  "precache-manifest.eead95b6d026e7519640089f62a41bde.js": "/Flexx-Platzi-Badges/precache-manifest.eead95b6d026e7519640089f62a41bde.js",
+  "precache-manifest.1a90b06c082515812e3bc375ff8284e0.js": "/Flexx-Platzi-Badges/precache-manifest.1a90b06c082515812e3bc375ff8284e0.js",
   "service-worker.js": "/Flexx-Platzi-Badges/service-worker.js",
   "static/css/2.a1208501.chunk.css.map": "/Flexx-Platzi-Badges/static/css/2.a1208501.chunk.css.map",
-  "static/css/main.8066e82e.chunk.css.map": "/Flexx-Platzi-Badges/static/css/main.8066e82e.chunk.css.map",
+  "static/css/main.362be4a4.chunk.css.map": "/Flexx-Platzi-Badges/static/css/main.362be4a4.chunk.css.map",
   "static/media/astronauts.svg": "/Flexx-Platzi-Badges/static/media/astronauts.71addf45.svg",
   "static/media/badge-header.svg": "/Flexx-Platzi-Badges/static/media/badge-header.973f5842.svg",
   "static/media/logo.svg": "/Flexx-Platzi-Badges/static/media/logo.0026b862.svg",
   "static/media/platziconf-logo.svg": "/Flexx-Platzi-Badges/static/media/platziconf-logo.f246f5f1.svg",
-  "static/media/BadgeNew.css": "/Flexx-Platzi-Badges/static/media/stars.1d17360a.svg"
+  "static/media/BadgeDetails.css": "/Flexx-Platzi-Badges/static/media/stars.1d17360a.svg"
 }
