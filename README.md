@@ -1,4 +1,4 @@
-# Flex Platzi Badges ♏⚕
+# Flex Platzi Badges ♏૱
 
 Flexx Platzi Badges, es una pagina hecha en React.js, con el objetivo de crear una interfaz de tu perfil con tu isignia de Platzi.
 
